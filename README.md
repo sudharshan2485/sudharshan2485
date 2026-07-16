@@ -1,7 +1,16 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./github_banner.png" alt="Sudharshan Banner" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Sudharshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<h1>👋 Hi, I'm Sudharshan</h1>
+
+<h3>🚀 Python Full Stack Developer | React Developer</h3>
+
+<p>
+Passionate about building modern, responsive web applications.
 </p>
+
+</div>
 
 <!-- Animated Intro -->
 <h1 align="center">
