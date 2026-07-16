@@ -68,25 +68,3 @@ Passionate about building modern, responsive web applications.
   </span>
 </p>
 
-<!-- Custom CSS for Animations -->
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes slideUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-  }
-  img {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  img:hover {
-    transform: scale(1.1);
-    filter: drop-shadow(0 0 8px #66fcff);
-  }
-</style>
