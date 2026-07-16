@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sudharshan</h1>
+<div align="center">
 
-<h3 align="center">Python Full Stack Developer from India 🇮🇳</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Sudharshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<h1>👋 Hi, I'm Sudharshan</h1>
+
+<h3>🚀 Python Full Stack Developer | React Developer</h3>
+
+<p>
+Passionate about building modern, responsive web applications.
+</p>
+
+</div>
 
 <p align="center">
   <a href="https://sudharshan2485-portfolio.netlify.app">🌐 Portfolio</a> •
