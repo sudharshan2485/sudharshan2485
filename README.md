@@ -35,12 +35,36 @@ Passionate about building modern, responsive web applications.
 
 ---
 
-## 🚀 About Me
+---
 
-- 🎓 B.Sc. Information Technology
-- 💻 Python Full Stack Developer
-- 🌱 Currently improving React, Django & JavaScript
-- 🎯 Looking for Software Developer opportunities
+# 💫 About Me
+
+```python
+class Sudharshan:
+
+    name = "Sudharshan"
+
+    role = "Python Full Stack Developer"
+
+    location = "Erode, Tamil Nadu"
+
+    education = "B.Sc Information Technology"
+
+    skills = [
+        "Python",
+        "Django",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Firebase"
+    ]
+
+    current_goal = "Looking for Software Developer Opportunities"
+
+print("Thanks for visiting my profile! 🚀")
+```
 
 ## 🛠️ Tech Stack
 
