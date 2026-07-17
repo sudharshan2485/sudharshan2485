@@ -34,7 +34,7 @@ Passionate about building modern, responsive web applications.
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/profile/sudharshan" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/profile/sudharshan" alt="Profile Views" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sudharshan&theme=dark" alt="GitHub Streak" />
 </p>
 
