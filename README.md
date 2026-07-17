@@ -33,11 +33,17 @@ Passionate about building modern, responsive web applications.
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://komarev.com/profile/sudharshan" alt="Profile Views" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudharshan&theme=dark" alt="GitHub Streak" />
-</p>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=sudharshan&theme=dark" alt="GitHub Streak" /> -->
+<!-- </p> -->
 <p align="center">
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sudharshan2485&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sudharshan2485&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudharshan2485&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <h2> About Me</h2><br><br>🐍 Python Full Stack Developer<br><br>💻 Building modern and responsive web applications<br><br>⚛️ Passionate about React & Django development<br><br>🎨 Focused on clean, user-friendly UI/UX<br><br>🚀 Turning ideas into real-world web applications<br><br>🧩 Love solving problems through code<br><br>📚 Continuously learning and improving every day<br><br>💼 Open to Software Developer opportunities
   
 # 💻 Tech Stack:
